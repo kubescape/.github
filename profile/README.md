@@ -6,7 +6,7 @@
 
 🙋‍♀️ A short introduction - Kubescape is about providing security for Kubernetes users, from dev to production!
 
-🌈 Contribution guidelines - Want to join the community of contributors? You can contribute in many ways! Writing code, documentation or even opening a bug. All of these and more count! Check out our [guidlines](https://github.com/kubescape/kubescape/blob/master/CONTRIBUTING.md)
+🌈 Contribution guidelines - Want to join the community of contributors? You can contribute in many ways! Writing code, documentation or even opening a bug. All of these and more count! Check out our [guidelines](https://github.com/kubescape/kubescape/blob/master/CONTRIBUTING.md)
 Check out the [Kubescape repo](https://github.com/kubescape/kubescape/) to learn more about us!
 
 👩‍💻 Useful resources - Start your journey [here](https://github.com/kubescape/kubescape/)
